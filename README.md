@@ -23,6 +23,15 @@ myMaven
 myDocker
 ```
 
+### Plugins
+// Docker Plugins
+docker-build-step
+CloudBees Docker Build and Publish
+
+// Openjdk
+Eclipse Temurin installer
+openJDK-native-pluginVersion
+
 ### Within Code 
 ```
 >> Dockerfile >> docker build >> Replace your dockerhub username
